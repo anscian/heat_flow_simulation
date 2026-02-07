@@ -108,4 +108,4 @@ if __name__ == '__main__':
 	#s = as3(10, 15, 0.1)
 	#s = as3(100, 100, 0.01)
 	s = as3(int(sys.argv[1]), int(sys.argv[2]), float(sys.argv[3])) # try 10 15 0.1 for testing (stable + fast)
-	s.animate(slowdown=0.1) # set slowdown to 0.1 for testing to speed up generation
+	s.animate(save=True, slowdown=0.1) # set slowdown to 0.1 for testing to speed up generation
