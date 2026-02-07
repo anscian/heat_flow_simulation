@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/0fc27f43-3472-4f73-902b-ac11e8c6fe60
+
 # Problem Statement for inspiration
 Consider a long steel annular pipe of 5 cm outer radius and 2 cm inner radius with k=45 W/m-°C and α=1.16 x 10-5 m2/s. This pipe was initially at 200 °C and the inner surface is insulated. Now, the upper half of the rod (mentioned in part a) is exposed air at 20° C with h= 50 W/m2-°C, and, the lower half is placed into a cooling water flow at 5° C with h= 250 W/m2-°C. Find out the time in which the maximum temperature inside the rod will be less than 100 °C.
 
